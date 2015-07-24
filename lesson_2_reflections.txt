@@ -17,3 +17,11 @@ If I have experimental changes that I want to try or if I have multiple alternat
 How do the diagrams help you visualize the branch structure?
 
 They make it possible to see the structure as a tree.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The commits in one branch are merged into the commits in the other. The result is that the current default branch now has the changes from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is convenient when it's possible, but manual merging is necessary at times. Always merging manually would be a nightmare.
