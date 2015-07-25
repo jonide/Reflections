@@ -13,3 +13,7 @@ Branches occur in a single repository, clones copy a repository locally or betwe
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It lets me see if I've made changes that need to be pushed to the remote, and I can see that even if I'm offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+There would have to be a lot of emailing of files back and forth, something like that. History would have to be maintained manually.
